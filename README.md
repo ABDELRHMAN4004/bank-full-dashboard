@@ -142,25 +142,23 @@ Users can dynamically filter the dashboard using:
 ## Executive Overview
 
 <p align="center">
-  <img src="images/Executive%Overview.png" width="900">
+  <img src="images/Executive%20Overview.png" width="900">
 </p>
-
 
 ---
 
 ## Customer Analysis
 
 <p align="center">
-  <img src="images/Customer%Analysis.png" width="900">
+  <img src="images/Customer%20Analysis.png" width="900">
 </p>
-
 
 ---
 
 ## Campaign Analysis
 
 <p align="center">
-  <img src="images/Customer%Analysis.png" width="900">
+  <img src="images/Campaign%20Analysis.png" width="900">
 </p>
 
 
