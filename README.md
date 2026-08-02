@@ -142,7 +142,7 @@ Users can dynamically filter the dashboard using:
 ## Executive Overview
 
 <p align="center">
-  <img src="images/Executive%20Overview.png" width="900">
+  <img src="Images/Executive%20Overview.png" width="900">
 </p>
 
 ---
@@ -150,7 +150,7 @@ Users can dynamically filter the dashboard using:
 ## Customer Analysis
 
 <p align="center">
-  <img src="images/Customer%20Analysis.png" width="900">
+  <img src="Images/Customer%20Analysis.png" width="900">
 </p>
 
 ---
@@ -158,7 +158,7 @@ Users can dynamically filter the dashboard using:
 ## Campaign Analysis
 
 <p align="center">
-  <img src="images/Campaign%20Analysis.png" width="900">
+  <img src="Images/Campaign%20Analysis.png" width="900">
 </p>
 
 
